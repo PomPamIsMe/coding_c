@@ -1,0 +1,7 @@
+D:\Advanced_Programming\Advanced_Programming\Advanced_Programming\bin\Debug\Advanced_Programming.exe.config
+D:\Advanced_Programming\Advanced_Programming\Advanced_Programming\bin\Debug\Advanced_Programming.exe
+D:\Advanced_Programming\Advanced_Programming\Advanced_Programming\bin\Debug\Advanced_Programming.pdb
+D:\Advanced_Programming\Advanced_Programming\Advanced_Programming\obj\Debug\Advanced_Programming.csproj.AssemblyReference.cache
+D:\Advanced_Programming\Advanced_Programming\Advanced_Programming\obj\Debug\Advanced_Programming.csproj.CoreCompileInputs.cache
+D:\Advanced_Programming\Advanced_Programming\Advanced_Programming\obj\Debug\Advanced_Programming.exe
+D:\Advanced_Programming\Advanced_Programming\Advanced_Programming\obj\Debug\Advanced_Programming.pdb
